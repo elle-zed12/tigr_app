@@ -1,0 +1,7 @@
+pendown
+pensize 5
+draw north 50
+draw east 150
+draw south 50
+draw west 150
+penup

@@ -1,0 +1,4 @@
+draw south 90
+draw north 90
+stop_record
+stop_recording

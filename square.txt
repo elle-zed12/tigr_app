@@ -1,0 +1,6 @@
+pensize 5
+draw n 100
+draw e 100
+draw s 100
+draw w 100
+penup

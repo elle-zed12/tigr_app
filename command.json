@@ -1,0 +1,66 @@
+{
+  "commandsList": [
+    {
+      "shortcutKey": "P",
+      "commandName": "PENSIZE",
+      "description": "Selecting pen size",
+      "direction": "None"
+    },
+    {
+      "shortcutKey": "D",
+      "commandName": "PENDOWN",
+      "description": "Putting pen down",
+      "direction": "None"
+    },
+    {
+      "shortcutKey": "U",
+      "commandName": "PENUP",
+      "description": "Putting pen up",
+      "direction": "None"
+    },
+    {
+      "shortcutKey": "N",
+      "commandName": "NORTH",
+      "description": "Moving to north direction",
+      "direction": "0"
+    },
+    {
+      "shortcutKey": "E",
+      "commandName": "EAST",
+      "description": "Moving to east direction",
+      "direction": "90"
+    },{
+      "shortcutKey": "S",
+      "commandName": "SOUTH",
+      "description": "Moving to south direction",
+      "direction": "180"
+    },{
+      "shortcutKey": "W",
+      "commandName": "WEST",
+      "description": "Moving to west direction",
+      "direction": "270"
+    },
+        {
+      "shortcutKey": "NE",
+      "commandName": "NORTH-EAST",
+      "description": "Moving to NorthEast direction",
+      "direction": "45"
+    },
+    {
+      "shortcutKey": "SE",
+      "commandName": "SOUTH-EAST",
+      "description": "Moving to south-east direction",
+      "direction": "135"
+    },{
+      "shortcutKey": "SW",
+      "commandName": "SOUTH-WEST",
+      "description": "Moving to south-west direction",
+      "direction": "225"
+    },{
+      "shortcutKey": "NW",
+      "commandName": "NORTH-WEST",
+      "description": "Moving to north-west direction",
+      "direction": "315"
+    }
+  ]
+}
